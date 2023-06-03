@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vücut Kitle Endeksi</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="boy_tv">Boy</string>
+    <string name="padding_tv">8dp</string>
+    <string name="kilo_tv">Kilo</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="ideal_kilo_tv">İdeal Kilo</string>
+    <string name="durum">Durum</string>
+    <string name="zayif">Zayıf durumdasınız.</string>
+    <string name="ideal">İdeal kilodasınız.</string>
+    <string name="normalden_fazla">Normal kilodan fazla.\n</string>
+    <string name="fazla_kilolu">Fazla kilolu.</string>
+    <string name="obez">Obez durumadsınız.</string>
+    <string name="doktora">Doktor tedavisine ihtiyacınız var.</string>
+</resources>

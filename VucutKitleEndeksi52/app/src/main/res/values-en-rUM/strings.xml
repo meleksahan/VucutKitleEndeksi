@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vücut Kitle Endeksi</string>
+    <string name="bay">Man</string>
+    <string name="bayan">Woman</string>
+    <string name="boy_tv">Height</string>
+    <string name="padding_tv">8dp</string>
+    <string name="kilo_tv">Weight</string>
+    <string name="cinsiyet">Gender</string>
+    <string name="ideal_kilo_tv">Ideal Weight</string>
+    <string name="durum">Weight Status</string>
+    <string name="zayif">You are underweight.</string>
+    <string name="ideal">You are at your ideal weight.</string>
+    <string name="normalden_fazla">More than normal weight.</string>
+    <string name="fazla_kilolu">You are overweight.</string>
+    <string name="obez">You are obese..</string>
+    <string name="doktora">You need medical treatment.</string>
+
+</resources>
